@@ -14,7 +14,7 @@ My first repository
 - **Number of Anime Episodes**: Over 1000 (ongoing)
 - **Status**: Ongoing, with a high anticipation towards its climax
 - **Adaptations**: TV series, films, video games, and more
-
+ 
 ## Story and Setting
 
 Set in a fantastical world dominated by oceans and islands, **One Piece** follows the epic journey of a young pirate, **Monkey D. Luffy**, who gains supernatural rubber-like powers after consuming a mysterious **Devil Fruit**. Driven by the dream of becoming the **Pirate King**, Luffy sails the treacherous seas searching for the ultimate treasure known as the **One Piece**, which is said to grant immense fame and fortune.
